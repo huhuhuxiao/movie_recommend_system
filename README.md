@@ -1,4 +1,6 @@
 # 基于协同过滤算法的电影推荐系统
+https://github.com/huhuhuxiao/movie_recommend_system/assets/73291920/d42e8039-a88e-4e99-957b-cda6866da2e4
+
 ## 1. 项目介绍
 本项目为信息系统分析与设计课程第一实验小组作品
 本系统以Django为基本框架，基于协同过滤算法实现的电影推荐系统
